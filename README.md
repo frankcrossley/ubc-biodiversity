@@ -1,1 +1,1 @@
-# ubc-biodiversity
+# UBC Biodiversity
